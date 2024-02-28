@@ -1,2 +1,2 @@
 # xinutest
-A wrapper for Purdue University's cs-console that allows for semi-automatic testing of compiled xinu binaries
+A wrapper for Purdue University's cs-console that automaticlly uploads a compiled xinu binary and powercycles the backend
